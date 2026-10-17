@@ -1,30 +1,99 @@
-# **Caio Tavares** 👋 <br>**Desenvolvedor de Soluções Tecnológicas**<br>
+<div align="center">
 
-"Como diria o Pica-Pau: *'E lá vamos nós...*'"<br> <br>Sou **Caio Tavares**, desenvolvedor focado em **Geotecnologia**, **Power Platform (Power Apps e Power Automate)** e **automação de processos**. Atualmente, estou **desenvolvendo soluções inovadoras** para a **EMBASA**, no setor de **Geotecnologia**, além de trabalhar em projetos de **digitalização de pequenos negócios**, como o desenvolvimento de **chatbots no WhatsApp**. 🚀<br><br>Minha experiência inclui a criação de **aplicativos e ferramentas** para **gestão de processos** e **otimização de fluxos de trabalho**, sempre com foco em aumentar a **eficiência operacional** e **produtividade**. Estou sempre em busca de novas tecnologias e soluções criativas para transformar a forma como as empresas operam e se comunicam. 💡<br><br>**Tecnologias e Habilidades:**<br>
+# Caio Tavares
 
-* **Linguagens:** JavaScript, Python, PHP, Java, SQL
-* **Frameworks e Ferramentas:** Power Apps, Power Automate, React, Node.js, Express, QGIS
-* **Áreas de Estudo:** Geotecnologia, Automação de Processos, Desenvolvimento Web
-* **Outros:** Desenvolvimento de Chatbots, Integração de Sistemas, UX/UI Design, Banco de Dados
+**Desenvolvedor de Sistemas · Geotecnologia · Power Platform**
 
-Sempre em busca de aprender e aplicar novas tecnologias para resolver desafios reais e transformar processos! Se você precisa de alguém focado em **inovação** e **eficiência**, estou à disposição para colaborar em novos projetos! 🤝
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Automa%C3%A7%C3%A3o+de+processos+com+Power+Platform;Plugins+Python+para+QGIS;Dados+geoespaciais+com+PostGIS;Full+Stack+%C2%B7+JavaScript+%C2%B7+Python+%C2%B7+PHP)](https://portifoliotavarez.netlify.app)
 
-## 🌐 Socials:
+[![Portfólio](https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://portifoliotavarez.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/caio-t-665bb9288/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/tavarezcaioo)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/tavarezcaioo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/caio-t-665bb9288/)
-
-# 💻 Tech Stack:
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white) ![PowerApps](https://img.shields.io/badge/Power%20Apps-%232C76C4.svg?style=for-the-badge\&logo=microsoft-powerapps\&logoColor=white) ![PowerAutomate](https://img.shields.io/badge/Power%20Automate-%23058A70.svg?style=for-the-badge\&logo=microsoft-powerautomate\&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-%2300A3E0.svg?style=for-the-badge\&logo=qgis\&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=caioviny\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=caioviny\&theme=dark\&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=caioviny\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=caioviny\&icon=0\&color=0)](https://visitcount.itsvg.in)
+### Sobre
 
+> *"E lá vamos nós..."* — Pica-Pau
 
+Sou **Desenvolvedor de Sistemas na [EMBASA](https://www.embasa.ba.gov.br)**, no setor de **Geotecnologia** (Camaçari, BA).
+Crio aplicações internas, automações e ferramentas de geoprocessamento que tiram trabalho manual da rotina das equipes.
+
+- 🛰️ Plugins **Python para QGIS** e modelagem de dados geoespaciais com **PostGIS**
+- ⚡ Apps e fluxos com **Power Apps**, **Power Automate** e **Power BI**
+- 🖥️ Infra própria: **Ubuntu Server**, **Lizmap**, **QFieldCloud**, **Docker** e **Nginx**
+- 🎨 Interfaces pensadas no **Figma** antes de virar código
+
+### Projetos em destaque
+
+#### 🗺️ SeePlace — visualizador GIS desktop
+
+Lê projetos **QGIS** (.qgs/.qgz) e mostra os dados direto de arquivos **GeoPackage**: funciona offline, sem servidor nem login. Os técnicos de campo da EMBASA consultam o cadastro sem precisar do QGIS.
+
+- **Leitura própria de GeoPackage e WKB** com `sqlite3`, sem GDAL/PyQGIS, o que deixa o programa leve e fácil de distribuir
+- **Modo 3D** com relevo real (MapLibre GL JS + modelo de terreno ANADEM 30 m)
+- **Rotas** pelas vias (OSRM, com um grafo offline como reserva), medição, perfil de declividade da rede de esgoto
+- **Pesquisa assíncrona**, tabela de atributos com filtros, exportação PNG/PDF/CSV/GeoJSON/KML
+- **Relatórios PDF** institucionais gerados a partir dos dados de cada localidade
+- Entregue como `.exe` que roda **sem permissão de administrador**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Qt](https://img.shields.io/badge/PySide6_/_Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![MapLibre](https://img.shields.io/badge/MapLibre_GL-396CB2?style=flat-square&logo=maplibre&logoColor=white)
+![SQLite](https://img.shields.io/badge/GeoPackage_/_SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+<sub>Desenvolvido em equipe no setor de Geotecnologia da EMBASA.</sub>
+
+#### Outros projetos
+
+| Projeto | O que faz | Stack |
+|:--|:--|:--|
+| **Plugins QGIS** | Automatiza tarefas e análises geográficas do setor comercial da EMBASA | Python · PyQt5 · QGIS API |
+| **DSTOP** | Gestão de demandas e acompanhamento de atividades | Power Apps · Power Automate · SharePoint |
+| **DSTOP BI** | Painel gerencial do setor de pitometria | Power BI · SharePoint |
+| **Tratágua** | App móvel para controle dos produtos químicos usados no tratamento de água | Power Apps · Power Automate |
+| **Stoke** | Controle de entrada e saída do almoxarifado | Power Automate · Power BI · SharePoint |
+| **NEO FINANCE** | Finanças pessoais com gráficos e previsão de gastos via IA | JavaScript · Web |
+
+<sub>Mais detalhes no [portfólio →](https://portifoliotavarez.netlify.app)</sub>
+
+### Trajetória
+
+```
+2025 — hoje   Desenvolvedor de Sistemas · EMBASA (Geotecnologia)
+2023 — 2024   Desenvolvedor · MJ Sistemas
+2022 — 2024   Análise e Desenvolvimento de Sistemas · SENAI
+```
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,qt,php,java,react,nodejs&theme=dark" alt="Linguagens e frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,ubuntu,nginx,cloudflare,git,figma&theme=dark" alt="Dados, infra e ferramentas" />
+</p>
+
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
+![Dataverse](https://img.shields.io/badge/Dataverse-088142?style=flat-square)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+
+### GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=caioviny&show_icons=true&theme=transparent&hide_border=true&hide_title=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioviny&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" alt="Linguagens mais usadas" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=caioviny&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" alt="GitHub streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Aberto a novos projetos e parcerias — me chama no <a href="https://www.linkedin.com/in/caio-t-665bb9288/">LinkedIn</a> 🤝</sub>
+</div>
